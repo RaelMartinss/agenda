@@ -5,6 +5,11 @@
  o resultado final.
  <br>
  
+ ## pagina de login
+ esse mesmo website conta com uma pagina de login para criar um conta e entra caso já seja cadastrado tem varios fatores de autenticação com por exemplo,
+ sabe ser o usuario já existe na base de dados e ser o email já exite entre verificações.
+  <br>
+ 
  <a href="https://ibb.co/nnPK2Zj"><img src="https://i.ibb.co/ZY2bstx/Captura-de-Tela-24.png" alt="Captura-de-Tela-24" border="0"></a>
  <br>
  
