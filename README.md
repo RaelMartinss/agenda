@@ -9,7 +9,7 @@
  <br/>
  ## pagina de login
  esse mesmo website conta com uma pagina de login para criar um conta e entra caso já seja cadastrado tem varios fatores de autenticação com por exemplo,
- sabe ser o usuario já existe na base de dados e ser o email já exite entre verificações.
+ sabe ser o usuario já existe na base de dados e ser o email já exite entre outras verificações.
  
   </br>
  <a href="https://ibb.co/4p6v25D"><img src="https://i.ibb.co/w49G7xb/Captura-de-Tela-26.png" alt="Captura-de-Tela-26" border="0"></a>
